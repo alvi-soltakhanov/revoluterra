@@ -1,0 +1,8 @@
+export { Contacts } from './ui/Form/Contacts'
+export { Details } from './ui/Form/Details'
+export { Paragraph } from './ui/Form/Paragraph'
+export { Parametar } from './ui/Form/Parametar'
+export { PlaceOfTransaction } from './ui/Form/PlaceOfTransaction'
+export { SubmitButtons } from './ui/Form/SubmitButtons'
+export { Header } from './ui/Header/Header'
+export { ImagesUpload } from './ui/Upload/UploadImage'
